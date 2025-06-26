@@ -4,5 +4,6 @@ public class Main {
         // Test 1232
         // ТТТТТТТТТТ
         // jklkhlkjkljkljlkjljklkjlkjlkjlkjlk
+        // Hi Привет
     }
 }
